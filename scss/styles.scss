@@ -1,5 +1,5 @@
-$dark-color : #333333;
+@import 'partials/reset';
 
 body {
-  background: $dark-color;
+  background: url(assets/bg.jpg);
 }
